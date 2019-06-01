@@ -9,4 +9,5 @@ clone项目的dev分支，然后增加或修改自己的代码，提交时：
 > #### 这是我在开发中看到一位同事使用的代码提交技法，觉得很好，可以最大限度的保证代码和dev的同步，减少代码冲突
 
 #### 2、idea解决包冲突
-使用<kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>u</kbd>
+使用idea右侧栏`maven project`中的show dependencies查看包依赖关系  
+快捷键：<kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>u</kbd>
